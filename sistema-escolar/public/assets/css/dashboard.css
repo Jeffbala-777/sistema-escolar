@@ -55,6 +55,11 @@ border-radius:5px;
 background:#e8f0ff;
 }
 
+main{
+padding:40px;
+transition:0.3s;
+}
+
 main.menu-aberto{
 margin-left:220px;
 }
@@ -70,7 +75,7 @@ font-size:18px;
 
 footer{
 margin-top:auto;
-background:#042652;
+background:#1e6fd9;
 color:white;
 text-align:center;
 padding:15px;

@@ -13,7 +13,8 @@ function carregar(pagina) {
     const conteudo = document.getElementById("conteudoTexto");
 
     conteudo.innerHTML = `
-       
+        <h1>${pagina}</h1>
+        <p>Conteúdo da página "${pagina}" será exibido aqui.</p>
     `;
 
 }

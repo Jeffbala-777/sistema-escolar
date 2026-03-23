@@ -17,6 +17,15 @@ align-items:center;
 text-align:center;
 }
 
+.login{
+background:#b2daf541;
+padding:40px;
+width:340px;
+border-radius:6px;
+border:1px solid #3b3a3a;
+box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
 form{
 display:flex;
 flex-direction:column;
